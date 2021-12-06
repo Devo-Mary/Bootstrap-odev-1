@@ -1,0 +1,25 @@
+body{
+    background-color:#E9ECEF!important;
+}
+/************************** index page **************************/
+.h3-color{
+    color: rgb(198, 198, 2);
+}
+.jumbotron ul>li{
+    list-style-position: inside;
+}
+/************************** about-us page **************************/
+.main-h1{
+    color: rgb(109, 3, 109);
+}
+.about-main-h4 {
+    color: rgb(134, 134, 3);
+}
+/************************** products page **************************/
+.card img{
+    height: 15em;
+    object-fit: contain;
+}
+.card-title{
+    height: 3em;
+}
